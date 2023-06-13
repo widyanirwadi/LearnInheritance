@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LearnInheritance\bin\Debug\net6.0\LearnInheritance.exe
+C:\Users\user\source\repos\LearnInheritance\bin\Debug\net6.0\LearnInheritance.deps.json
+C:\Users\user\source\repos\LearnInheritance\bin\Debug\net6.0\LearnInheritance.runtimeconfig.json
+C:\Users\user\source\repos\LearnInheritance\bin\Debug\net6.0\LearnInheritance.dll
+C:\Users\user\source\repos\LearnInheritance\bin\Debug\net6.0\LearnInheritance.pdb
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.AssemblyInfo.cs
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.dll
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\refint\LearnInheritance.dll
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.pdb
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\LearnInheritance.genruntimeconfig.cache
+C:\Users\user\source\repos\LearnInheritance\obj\Debug\net6.0\ref\LearnInheritance.dll
